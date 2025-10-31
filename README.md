@@ -1,2 +1,2 @@
 # demo-repo
-This is a GitHub demo
+This is a deep and in depth description of my project.
